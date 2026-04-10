@@ -6,7 +6,7 @@
 
 
 body {
-    background: #ff75f6;  /* тёмный фон, как на фото */
+    background: hsl(304, 73%, 77%);  /* тёмный фон, как на фото */
     min-height: 100vh;
     display: flex;
     justify-content: center;
